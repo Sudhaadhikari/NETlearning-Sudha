@@ -48,6 +48,6 @@ int weeks = (int)(age.TotalDays / 7);
 int days = (int)(age.TotalDays);
 
 //  //Print the greeting, DOB, and age information to the console
-Console.WriteLine($"Hello, RAKSHYA KUNWAR Ji!");
+Console.WriteLine($"Hello, Sudha Adhikari Ji!");
 Console.WriteLine($"Your DOB: {DOB.ToString("dddd, dd MMMM yyyy")}");
 Console.WriteLine($"Age as of now: {years} Years {months} Months {weeks} Weeks {days} Days");
