@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\sudha_dotnet\\NETlearning-Sudha\\firstconsoleApp\\firstconsoleApp.csproj",
-      "projectName": "firstconsoleApp",
-      "projectPath": "C:\\Users\\USER\\Desktop\\sudha_dotnet\\NETlearning-Sudha\\firstconsoleApp\\firstconsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\sudha_dotnet\\NETlearning-Sudha\\Assignment2\\Assignment2.csproj",
+      "projectName": "Assignment2",
+      "projectPath": "C:\\Users\\USER\\Desktop\\sudha_dotnet\\NETlearning-Sudha\\Assignment2\\Assignment2.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\sudha_dotnet\\NETlearning-Sudha\\firstconsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\sudha_dotnet\\NETlearning-Sudha\\Assignment2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
